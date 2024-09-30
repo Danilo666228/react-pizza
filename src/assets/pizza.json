@@ -1,0 +1,92 @@
+[
+	{
+		"id": 0,
+		"imageUrl": "https://media.dodostatic.net/image/r:292x292/11EF438E93884BFEBFE79D11095AE2D4.avif",
+		"title": "Пепперони Фреш с перцем",
+		"types": [0,1],
+		"sizes": [26, 30, 40],
+		"price": 1200,
+		"category": 0,
+		"rating": 4
+	},
+	{
+		"id": 1,
+		"imageUrl": "https://media.dodostatic.net/image/r:292x292/11EF438E93884BFEBFE79D11095AE2D4.avif",
+		"title": "Гавайская",
+		"types": [0, 1],
+		"sizes": [26, 30, 40],
+		"price": 450,
+		"category": 0,
+		"rating": 4
+	},
+	{
+		"id": 2,
+		"imageUrl": "https://media.dodostatic.net/image/r:292x292/11EF438E93884BFEBFE79D11095AE2D4.avif",
+		"title": "Барбекю",
+		"types": [0, 1],
+		"sizes": [26, 30, 40],
+		"price": 678,
+		"category": 0,
+		"rating": 4
+	},
+	{
+		"id": 3,
+		"imageUrl": "https://media.dodostatic.net/image/r:292x292/11EF438E93884BFEBFE79D11095AE2D4.avif",
+		"title": "Классическая",
+		"types": [0, 1],
+		"sizes": [26, 30, 40],
+		"price": 678,
+		"category": 0,
+		"rating": 4
+	},
+	{
+		"id": 4,
+		"imageUrl": "https://media.dodostatic.net/image/r:292x292/11EF438E93884BFEBFE79D11095AE2D4.avif",
+		"title": "Мясная",
+		"types": [0, 1],
+		"sizes": [26, 30, 40],
+		"price": 460,
+		"category": 0,
+		"rating": 4
+	},
+	{
+		"id": 5,
+		"imageUrl": "https://media.dodostatic.net/image/r:292x292/11EF438E93884BFEBFE79D11095AE2D4.avif",
+		"title": "4 Сыра",
+		"types": [0, 1],
+		"sizes": [26, 30, 40],
+		"price": 907,
+		"category": 0,
+		"rating": 4
+	},
+	{
+		"id": 6,
+		"imageUrl": "https://media.dodostatic.net/image/r:292x292/11EF438E93884BFEBFE79D11095AE2D4.avif",
+		"title": "Чоризо",
+		"types": [0, 1],
+		"sizes": [26, 30, 40],
+		"price": 344,
+		"category": 0,
+		"rating": 4
+	},
+	{
+		"id": 7,
+		"imageUrl": "https://media.dodostatic.net/image/r:292x292/11EF438E93884BFEBFE79D11095AE2D4.avif",
+		"title": "Пепперони Фреш с перцем",
+		"types": [0, 1],
+		"sizes": [26, 30, 40],
+		"price": 457,
+		"category": 0,
+		"rating": 4
+	},
+	{
+		"id": 8,
+		"imageUrl": "https://media.dodostatic.net/image/r:292x292/11EF438E93884BFEBFE79D11095AE2D4.avif",
+		"title": "Пепперони Фреш с перцем",
+		"types": [0, 1],
+		"sizes": [25, 30, 40],
+		"price": 1096,
+		"category": 0,
+		"rating": 4
+	}
+]

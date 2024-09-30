@@ -1,0 +1,32 @@
+.sort {
+	position: relative;
+	&__label {
+		cursor: pointer;
+		display: flex;
+		align-items: center;
+		gap: 20px;
+		&-text {
+			color: var(--color-accent);
+			font-weight: 700;
+			text-decoration: dashed;
+		}
+	}
+	&__popup {
+		position: absolute;
+		top: 33px;
+		left: 209px;
+		padding: 10px;
+		border-radius: 10px;
+		position: absolute;
+		background-color: antiquewhite;
+		&-item {
+			
+			border-radius: 10px;
+			cursor: pointer;
+			padding: 5px 10px;
+			&-checked {
+				background-color: var(--color-accent);
+			}
+		}
+	}
+}
